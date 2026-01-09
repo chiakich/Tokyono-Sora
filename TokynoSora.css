@@ -405,6 +405,7 @@ body,
 .icons_holder .pif-emoticon:after {
   display: none;
 }
+._lch_ ~ .pop-window .response-manager,
 .response-manager {
   border-radius: 7px;
   background: var(--plurk-bg-color);
@@ -492,7 +493,7 @@ body,
 .response-status .response-only-owner:hover,
 .response-status .response-display-options:hover,
 .response-status .response-display-options.popview-targeting {
-  background: var(--theme-main-color)
+  background: var(--theme-main-color);
 }
 
 /*   面板設定   */
