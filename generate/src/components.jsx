@@ -298,7 +298,7 @@ export function App() {
             <Result css={css} />
 
             <a
-              href="https://www.plurk.com/akira02/invite/4"
+              href="https://www.plurk.com/chiakich/invite/4"
               class="btn btn-outline-danger"
               role="button"
             >

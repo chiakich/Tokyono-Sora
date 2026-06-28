@@ -4,7 +4,7 @@
 
 ![image](https://images.plurk.com/3Lhkj9gwd4SEWocsJgFaVm.png)
 </br> </br>
-這是 [千秋稻荷社](https://plurk.com/akira02) 重新設計的噗浪 UI，免費且自由使用的噗浪 CSS 佈景！</br>
+這是 [千秋稻荷社](https://plurk.com/chiakich) 重新設計的噗浪 UI，免費且自由使用的噗浪 CSS 佈景！</br>
 ![image](https://images.plurk.com/51F0ghyRPLXSwrIkM81MBB.jpg)
 ![image](https://images.plurk.com/3JD6vO5tC3YkhNwANnJStQ.png)
 </br></br>
@@ -103,5 +103,5 @@ https://chiaki.uk/Tokyono-Sora</br>
 
 ## 作者
 
-設計與製作：[千秋](https://plurk.com/akira02)</br>
+設計與製作：[千秋](https://plurk.com/chiakich)</br>
 發明可以控制頂端列與跳出窗 CSS 的黑魔法：[欸個](https://www.plurk.com/egg820)
