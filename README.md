@@ -13,8 +13,8 @@
 
 複製本體 CSS，貼到 `自訂佈景` -> `自訂佈景風格` 欄位
 
-[本體 CSS](https://github.com/akira02/Tokyono-Sora/blob/main/TokynoSora.css) </br>
-[附加自訂 CSS](https://github.com/akira02/Tokyono-Sora/blob/main/custom.css) </br>
+[本體 CSS](https://github.com/chiakich/Tokyono-Sora/blob/main/TokynoSora.css) </br>
+[附加自訂 CSS](https://github.com/chiakich/Tokyono-Sora/blob/main/custom.css) </br>
 </br>
 
 備註：Firefox 需啟用 has-selector 才能正常使用：
@@ -92,7 +92,7 @@ Chrome：
 
 ### 要怎麼換成跟展示一樣的世界線變動率風格卡馬值？
 
-複製[附加自訂 CSS](https://github.com/akira02/Tokyono-Sora/blob/main/custom.css)裡面的`改成世界線變動率風格卡馬值`區塊，貼到`自訂佈景`->`自訂佈景風格`欄位中的最下面，要貼在最後面才會啟用喔！
+複製[附加自訂 CSS](https://github.com/chiakich/Tokyono-Sora/blob/main/custom.css)裡面的`改成世界線變動率風格卡馬值`區塊，貼到`自訂佈景`->`自訂佈景風格`欄位中的最下面，要貼在最後面才會啟用喔！
 
 ### 使用之後捲動河道好像卡卡的，有時候 CPU 使用率會衝很高？
 
